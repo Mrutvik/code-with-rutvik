@@ -132,6 +132,14 @@ body {
 
 }
 
+.project:hover #ancer{
+
+ color: #75CEFF;
+
+ border: #75CEFF;
+
+}
+
 /*
 @keyframes proj {
  0% {
